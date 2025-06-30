@@ -79,13 +79,13 @@ Message: ${data.message}
         `.trim();
         
         // Create mailto link
-        const mailtoLink = `mailto:novaaxis@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+        const mailtoLink = `mailto:novaaxis.au@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
         
         // Open email client
         window.open(mailtoLink, '_blank');
         
         // Show success message
-        showNotification('Thank you for your message! Your email client will open to send the message to novaaxis@gmail.com', 'success');
+        showNotification('Thank you for your message! Your email client will open to send the message to novaaxis.au@gmail.com', 'success');
         this.reset();
     });
 }

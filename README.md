@@ -1,14 +1,15 @@
 # Nova Axis - Premium Shelf Company Website
 
-A modern, professional website for Nova Axis, a premium shelf company available for acquisition. Built with HTML5, CSS3, and JavaScript, featuring a clean white and neutral color scheme with responsive design.
+A modern, professional website for Nova Axis, a premium shelf company available for acquisition. Built with HTML5, CSS3, and JavaScript, featuring a clean white and green color scheme with responsive design.
 
-**🌐 Live Website**: [Nova Axis](https://rrbgroup.github.io/Nova-Axis/)  
-**📁 GitHub Repository**: [RRBGroup/Nova-Axis](https://github.com/RRBGroup/Nova-Axis)
+**🌐 Live Website**: [Nova Axis](https://rrbgroup.github.io/VerdantEdge/)  
+**📁 GitHub Repository**: [RRBGroup/VerdantEdge](https://github.com/RRBGroup/VerdantEdge)  
+**🏢 Created by**: RRB Group
 
 ## 🌟 Features
 
 ### Design & User Experience
-- **Modern & Professional Design**: Clean white and neutral color scheme
+- **Modern & Professional Design**: Clean white and green color scheme
 - **Fully Responsive**: Optimized for all devices (desktop, tablet, mobile)
 - **Smooth Animations**: Subtle hover effects and scroll animations
 - **Professional Typography**: Using Inter font family for excellent readability
@@ -45,7 +46,7 @@ A modern, professional website for Nova Axis, a premium shelf company available 
 - No additional dependencies required
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/RRBGroup/Nova-Axis.git`
+1. Clone the repository: `git clone https://github.com/RRBGroup/VerdantEdge.git`
 2. Open `index.html` in your web browser
 3. The website is ready to use!
 
@@ -64,7 +65,8 @@ nova-axis-website/
 ### Color Palette
 - **Primary**: #2c3e50 (Dark Blue-Gray)
 - **Secondary**: #34495e (Medium Blue-Gray)
-- **Accent**: #3498db (Blue)
+- **Accent**: #27ae60 (Green)
+- **Accent Hover**: #229954 (Dark Green)
 - **Background**: #ffffff (White)
 - **Light Background**: #f8f9fa (Light Gray)
 - **Text Primary**: #2c3e50 (Dark)
@@ -116,10 +118,10 @@ The contact form includes:
 - Email format verification
 - Success/error notifications
 - Form reset after submission
-- **Email Integration**: Opens user's email client with pre-filled message to novaaxis@gmail.com
+- **Email Integration**: Opens user's email client with pre-filled message to novaaxis.au@gmail.com
 
 ### Contact Information
-- **Email**: novaaxis@gmail.com
+- **Email**: novaaxis.au@gmail.com
 - **Phone**: +61 470 655 219
 - **WhatsApp**: +61 470 655 219 (click to open WhatsApp)
 
@@ -137,10 +139,18 @@ This project is created for Nova Axis. All rights reserved.
 ## 🤝 Support
 
 For technical support or customization requests, please contact:
-- **Email**: novaaxis@gmail.com
+- **Email**: novaaxis.au@gmail.com
 - **Phone**: +61 470 655 219
 - **WhatsApp**: +61 470 655 219
 
 ---
 
-**Nova Axis** - Premium shelf company available for acquisition. 
+**Nova Axis** - Premium shelf company available for acquisition.
+
+---
+
+**About RRB Group**
+
+This project is developed under the umbrella of RRB Group, a professional business services company specializing in corporate solutions and shelf company management. RRB Group provides comprehensive support for business acquisitions and corporate structuring needs.
+
+For more information about RRB Group services, please contact us at novaaxis.au@gmail.com. 
